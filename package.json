@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/8bit-peter/Recipe-Search-App",
+  "homepage": "https://8bit-peter.github.io/Recipe-Search-App",
   "dependencies": {
     "axios": "^0.19.0",
     "react": "^16.8.6",
