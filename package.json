@@ -5,6 +5,7 @@
   "homepage": "https://8bit-peter.github.io/Recipe-Search-App",
   "dependencies": {
     "axios": "^0.19.0",
+    "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-autocomplete": "^1.8.1",
     "react-dom": "^16.8.6",
